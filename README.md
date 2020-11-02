@@ -1,6 +1,9 @@
 # ECG Proof of Concept
 
-This project was see if I am able to predict ECG data using an LSTM. 
+This project was see if I am able to predict ECG data using an LSTM. This is still a work on progress, as there still a lot of improvements that need to be done. 
+
+![version 1](https://github.com/DarrahK/ECG-POC#version-1-notebook)
+![version 2](https://github.com/DarrahK/ECG-POC#version-2-notebook2---training-with-a-bigger-data-set)
 
 ## Version 1 (Notebook)
 
