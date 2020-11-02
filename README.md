@@ -2,13 +2,25 @@
 
 This project was see if I am able to predict ECG data using an LSTM. 
 
-## Training
+## Version 1 (Notebook)
+
+### Training
 
 ![](images/Training.png)
 
-## Prediction
+### Prediction
 
 ![](images/ECG_Prediction.png)
+
+## Version 2 (Notebook2) - Training With A Bigger Data Set
+
+### Training
+
+![](images/Training_2.png)
+
+### Prediction 
+
+![](images/ECG_Prediction_2.png)
 
 
 ## Resources that I used: 
