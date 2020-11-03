@@ -2,7 +2,21 @@
 
 This project was see if I am able to predict ECG data using an LSTM. This is still a work on progress, as there still a lot of improvements that need to be done. 
 
-## Version 2 (Notebook2) - Training With A Bigger Data Set
+## Version 3 (Nodebook3) - Training With 21891 data points
+
+### Training
+
+![](images/Notebook_3_Training.png)
+
+![](images/Training_3.png)
+
+### Prediction
+
+![](ECG_Prediction_3.png)
+
+model is saved under models/model3 - took 2.5 hours to train
+
+## Version 2 (Notebook2) - Training With 1000 data points
 
 ### Training
 
