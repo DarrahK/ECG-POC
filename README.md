@@ -12,7 +12,7 @@ This project was see if I am able to predict ECG data using an LSTM. This is sti
 
 ### Prediction
 
-![](ECG_Prediction_3.png)
+![](images/ECG_Prediction_3.png)
 
 model is saved under models/model3 - took 2.5 hours to train
 
