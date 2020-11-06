@@ -26,7 +26,7 @@ model is saved under models/model3 - took 2.5 hours to train
 
 ![](images/ECG_Prediction_2.png)
 
-
+* Note: The variance at 0 is due to the error in the training data
 ## Version 1 (Notebook)
 
 ### Training
