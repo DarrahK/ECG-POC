@@ -2,7 +2,7 @@
 
 This project was see if I am able to predict ECG data using an LSTM. This is still a work on progress, as there still a lot of improvements that need to be done. 
 
-## Versions
+## Versions of Work
 
 [Version 3](#version-3-nodebook3---training-with-21891-data-points)
 
@@ -26,13 +26,13 @@ This project was see if I am able to predict ECG data using an LSTM. This is sti
 
 ### Training
 
-![](images/Notebook_3_Training.png)
+![](images/Training/Notebook_3_Training.png)
 
-![](images/Training_3.png)
+![](images/Training/Training_3.png)
 
 ### Prediction
 
-![](images/ECG_Prediction_3.png)
+![](images/Predictions/ECG_Prediction_3.png)
 
 model is saved under models/model3 - took 2.5 hours to train
 
@@ -40,22 +40,22 @@ model is saved under models/model3 - took 2.5 hours to train
 
 ### Training
 
-![](images/Training_2.png)
+![](images/Training/Training_2.png)
 
 ### Prediction 
 
-![](images/ECG_Prediction_2.png)
+![](images/Predictions/ECG_Prediction_2.png)
 
 * Note: The variance at 0 is due to the error in the training data
 ## Version 1 (Notebook)
 
 ### Training
 
-![](images/Training.png)
+![](images/Training/Training.png)
 
 ### Prediction
 
-![](images/ECG_Prediction.png)
+![](images/Predictions/ECG_Prediction.png)
 
 ## Resources that I used: 
 
