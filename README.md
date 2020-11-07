@@ -1,4 +1,4 @@
-# ECG Proof of Concept
+# ECG Prediction - Proof of Concept
 
 This project was see if I am able to predict ECG data using an LSTM. This is still a work on progress, as there still a lot of improvements that need to be done. 
 
@@ -46,7 +46,7 @@ model is saved under models/model3 - took 2.5 hours to train
 
 ![](images/ECG_Prediction_2.png)
 
-
+* Note: The variance at 0 is due to the error in the training data
 ## Version 1 (Notebook)
 
 ### Training
