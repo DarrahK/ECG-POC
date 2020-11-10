@@ -2,6 +2,8 @@
 
 This project was see if I am able to predict ECG data using an LSTM. This is still a work on progress, as there still a lot of improvements that need to be done. 
 
+⚠️ This project is on hold because I am focusing on my final year of university. 
+
 ## Versions of Work
 
 [Version 3](#version-3-nodebook3---training-with-21891-data-points)
