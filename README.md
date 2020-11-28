@@ -32,11 +32,13 @@ This project was see if I am able to predict ECG data using an LSTM. This is sti
 
 ![](images/Training/Training_3.png)
 
-### Prediction
+### Prediction*
 
 ![](images/Predictions/ECG_Prediction_3.png)
 
-model is saved under models/model3 - took 2.5 hours to train
+- *The variance at 0 is due to the error in the training data
+
+- model is saved under models/model3 - took 2.5 hours to train
 
 ## Version 2 (Notebook2) - Training With 1000 data points
 
@@ -48,7 +50,6 @@ model is saved under models/model3 - took 2.5 hours to train
 
 ![](images/Predictions/ECG_Prediction_2.png)
 
-* Note: The variance at 0 is due to the error in the training data
 ## Version 1 (Notebook)
 
 ### Training
